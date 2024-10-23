@@ -1,6 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-# NAME: ManiKumar DK
-## REG NO : 212223230121
+# NAME: Ragavan E
+## REG NO : 212223040160
 
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
